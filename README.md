@@ -39,3 +39,4 @@ List of Movies that I watched:
 4. Ninja Assassin (4/5)
 5. John Wick (4/5)
 6. Force 2 (4/5)
+7. Day of the dead (3/5)
