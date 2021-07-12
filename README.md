@@ -8,7 +8,7 @@ List of TV shows that I watched:
 
 1. V-Wars (4/5)
 2. Van Helsing (4/5)
-3. Z Nation (4/5)
+3. Z Nation (3/5)
 4. Lucifer (2/5)
 5. Money Heist (5/5) ♥
 6. Resurrection: Ertugrul (5/5) ♥
@@ -29,6 +29,7 @@ List of TV shows that I watched:
 21. The walking dead (5/5) ♥
 22. Sherlock (5/5)
 23. Marvel: Iron First (4/5)
+24. Black Lightning (3/5)
 
 ## Movies
 
@@ -41,3 +42,4 @@ List of Movies that I watched:
 5. John Wick (4/5)
 6. Force 2 (4/5)
 7. Day of the dead (3/5)
+8. 3 Idiots (5/5)
