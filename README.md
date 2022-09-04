@@ -66,6 +66,7 @@ List of Movies that I watched:
 - Saladin (3/5)
 - Singham (3/5)
 - Sooryavanshi (3/5)
+- The Grudge (3/5)
 - The Incredible Hulk (5/5)
 - The Scorpian King (5/5)
 - Van Helsing (5/5)
