@@ -1,10 +1,6 @@
 # Entertainment
 
-List of TV shows and movies that I have watched. I have added my rating in the brackets like this -> (3/5) This means I rated it 3 out of 5.
-
 ## TV Shows
-
-List of TV shows that I watched:
 
 - All of Us Are Dead (5/5) ♥
 - Aranyak (4/5)
@@ -31,7 +27,8 @@ List of TV shows that I watched:
 - Sherlock (5/5)
 - Spartacus (5/5) ♥
 - Squid Game (4/5)
-- Stranger Things (5/5)
+- Stranger Things (5/5) ♥
+- Sweet Home (4/5)
 - Teen Wolf (4/5)
 - The Great Seljuks / Büyük Selçuklu (5/5)
 - The Last Kingdom (4/5)
@@ -48,8 +45,6 @@ List of TV shows that I watched:
 
 
 ## Movies
-
-List of Movies that I watched:
 
 - 300 (5/5)
 - 300: Rise Of An Empire - 2014 (5/5)
@@ -68,7 +63,7 @@ List of Movies that I watched:
 - Sooryavanshi (3/5)
 - The Grudge (3/5)
 - The Incredible Hulk (5/5)
-- The Scorpian King (5/5)
+- The Scorpion King (5/5)
 - Van Helsing (5/5)
 - Venom: Let There Be Carnage (4/5)
 - Wonder Woman (5/5)
